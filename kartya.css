@@ -13,7 +13,12 @@ h1
     text-align: center;
 }
 
-.b_{
+.g_{
     color: green;
+    font-weight: bold;
+}
+
+.b_{
+    color: blue;
     font-weight: bold;
 }
