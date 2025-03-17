@@ -12,3 +12,8 @@ h1
     font-size: 100px!important;
     text-align: center;
 }
+
+.b_{
+    color: green;
+    font-weight: bold;
+}
