@@ -6,6 +6,14 @@ body {
     background-size: 300px;
 }
 
+.piros{
+    color: red;
+}
+
+.fekete{
+    color: rgb(0, 0, 0);
+}
+
 h1
 {
     font-family: 'Alex Brush', cursive!important;
@@ -16,4 +24,18 @@ h1
 .b_{
     color: green;
     font-weight: bold;
+}
+
+.alakzat{
+    text-align: center;
+    margin: 0;
+    font-size: 600%;
+}
+
+.kepalairas{
+    size: 12px;
+    text-align: center;
+    font-style: italic;
+    border: 1px black solid;
+    border-radius: 6px;
 }
