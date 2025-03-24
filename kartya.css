@@ -8,10 +8,22 @@ body {
 
 .piros{
     color: red;
+    font-weight: bold;
 }
 
 .fekete{
     color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.zold{
+    color: green;
+    font-weight: bold;
+}
+
+.kek{
+    color: blue;
+    font-weight: bold;
 }
 
 h1
@@ -26,7 +38,6 @@ h1
     font-weight: bold;
 }
 
-<<<<<<< HEAD
 .alakzat{
     text-align: center;
     margin: 0;
@@ -39,9 +50,8 @@ h1
     font-style: italic;
     border: 1px black solid;
     border-radius: 6px;
-=======
+}
 .b_{
     color: blue;
     font-weight: bold;
->>>>>>> bbe70f3d3b0cb50b30516cfd2a30b5b647f18156
 }
