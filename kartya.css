@@ -6,6 +6,10 @@ body {
     background-size: 300px;
 }
 
+.fk{
+    font-weight: bold;
+}
+
 .piros{
     color: red;
     font-weight: bold;
@@ -54,4 +58,9 @@ h1
 .b_{
     color: blue;
     font-weight: bold;
+}
+
+li{
+    border: 130%;
+    list-style-image: url(joker-felsorolas.png);
 }
